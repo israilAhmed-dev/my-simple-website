@@ -4,8 +4,18 @@ div{
 }
 .astronote{
     background-color: black;
+    border: 5px solid rgb(62, 3, 3);
+    width: 50%;
+}
+.astronote{
+    background-color: black;
+    border: 5px solid rgb(62, 3, 3);
+    width: 50%;
 }
 .dom{
     color: orange;
     }
+img{
+    width:80%;
+    border: 2px solid rgb(1, 46, 1);
 }
