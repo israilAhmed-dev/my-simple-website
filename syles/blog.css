@@ -1,21 +1,14 @@
-div{
-    background-color: aquamarine;
-    padding: 10px;
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
 }
-.astronote{
-    background-color: black;
-    border: 5px solid rgb(62, 3, 3);
-    width: 50%;
+nav li:hover{
+    background-color: aqua;
 }
-.astronote{
-    background-color: black;
-    border: 5px solid rgb(62, 3, 3);
-    width: 50%;
+nav li a{
+    text-decoration: none;
 }
-.dom{
-    color: orange;
-    }
-img{
-    width:80%;
-    border: 2px solid rgb(1, 46, 1);
+footer{
+    text-align: center;
 }
